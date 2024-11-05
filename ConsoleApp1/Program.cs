@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Josipa Ostovića, JMBAG: 0165082222");
+            Console.WriteLine("Pozdrav iz aplikacije od Josipa Ostovića, JMBAG: 3332221111");
         }
     }
 }
